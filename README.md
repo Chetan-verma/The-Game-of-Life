@@ -1,7 +1,7 @@
 # The-Game-of-Life
 ![image](https://user-images.githubusercontent.com/58814689/130366114-0cf77c12-7fbc-4189-968f-79926b8336c3.png)
 
-Simulation of Conway's game of Life on a bounded grid 
+Simulation of Conway's game of Life on a bounded grid.
 Pre condition: The user must supply an initial of living cells. 
 Post condition: The program prints a sequence of maps showing the changes in the configuration of living cells according to the rules for the game of Life.  
 
